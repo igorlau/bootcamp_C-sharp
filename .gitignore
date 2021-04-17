@@ -5,6 +5,7 @@
 
 #vscode folder
 .vscode/
+*.json
 
 # User-specific files
 *.rsuser
